@@ -1,0 +1,1 @@
+cmd='F:/ESP32/.espressif/tools/cmake/3.16.4/bin/cmake.exe;-DSDKCONFIG=E:/TFG/Tensiometro_v1.2/sdkconfig;-DIDF_PATH=F:/ESP-IDF;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=F:/ESP-IDF/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
